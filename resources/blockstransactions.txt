@@ -1,0 +1,7 @@
+alic,bob,5.0-mart,cert,2.0|mart,cert,2.0-mart,cert,2.0|sart,ford,3.0-fad,sham,3.0|sham,mert,2.6-bob,fad,0.1|fad,sham,3.0-fad,sham,2.0
+bob,alic,5.0-bob,fad,0.1|sart,ford,3.0-bob,fad,0.1|cert,mart,2.5-bob,fad,0.1|mert,sham,2.7-bob,fad,0.1|sham,fad,1.5-bob,fad,0.1|bob,fad,0.1-bob,fad,0.1
+sart,ford,3.3-alic,bob,5.0-bob,fad,0.1|alic,bob,5.0-bob,fad,0.1|mart,cert,2.0-bob,fad,0.1|sart,ford,3.0-bob,fad,0.1|sham,mert,2.3-bob,fad,0.1|fad,sham,3.0-bob,fad,0.1|bob,fad,0.1-bob,fad,0.1
+alic,bob,2.4-sart,ford,3.8|cert,mart,2.1-sart,ford,3.8|sart,ford,1.0-sart,ford,3.8|sham,mert,2.7-sart,ford,3.8|fad,sham,3.6-sart,ford,3.8|bob,fad,0.2-bob,fad,0.1
+bob,fad,5.1-sham,mert,10.9|mart,cert,0.35-sham,mert,9.2|sart,ford,3.8-sham,mert,9.2|sham,mert,2.4-sham,mert,9.2|fad,sham,3.0-sham,mert,10.9|bob,fad,0.1-fad,sham,3.0
+bob,fad,3.1-sham,mert,9.2|mart,cert,2.0-mart,cert,2.0|sart,ford,3.0-mart,cert,2.0|sham,mert,9.2-bob,fad,0.1|fad,sham,3.0-bob,fad,0.1|bob,fad,0.1-bob,fad,0.1
+sart,ford,3.3-alic,bob,5.0-bob,fad,0.1|mart,cert,2.0-alic,bob,5.0-mart,cert,2.0-bob,fad,0.1|sart,ford,2.2-mart,cert,2.0|sham,mert,10.9-mart,cert,2.0-mart,cert,2.0|fad,sham,3.0-mart,cert,2.0|bob,fad,0.1-alic,bob,5.0|bob,fad,0.1-alic,bob,5.0

@@ -1,0 +1,72 @@
+
+n	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô–ş˜8äÂòàÖ.
+O
+java:S1135"2Complete the task associated to this TODO comment.(ˆ®™ï8”…£áÖ.
+T
+java:S1135)"2Complete the task associated to this TODO comment.(§›´ úÿÿÿÿ8ïÚ¯áÖ.
+J	java:S108d")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8íÁå¿Ô.
+h	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8äÂòàÖ.
+}
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾Î›Š8äÂòàÖ.
+O
+java:S1135ƒ"2Complete the task associated to this TODO comment.(¬éµZ8è¨ûàÖ.
+I
+java:S1172s",Remove this unused method parameter "block".(Â±ÿÇ8±ˆòàÖ.
+
+java:S1319œ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ì¹®¸8äÂòàÖ.
+M
+java:S3740œ"/Provide the parametrized type for this generic.(ì¹®¸8äÂòàÖ.
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8¿ŠáÖ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(‘Íé‘ÿÿÿÿÿ8Ã£Ü¿Ô.
+O
+java:S1135#"2Complete the task associated to this TODO comment.(•Šì»8ìù³áÖ.
+N
+java:S1481&"1Remove this unused "starterBlock" local variable.(±¦à·8…´´áÖ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‡Ï†8Ã£Ü¿Ô.
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8¿ŠáÖ.
+’
+java:S1319 "tThe type of the "allChains" object should be an interface such as "List" rather than the implementation "ArrayList".(—óà8äÂòàÖ.
+_
+java:S11172"=Rename "container" which hides the field declared at line 19.(Öşşôşÿÿÿÿ8íÁå¿Ô.
+N
+java:S1135t"2Complete the task associated to this TODO comment.(ºõú
+8äÂòàÖ.
+O
+java:S1135~"2Complete the task associated to this TODO comment.(¥„8€¾÷àÖ.
+M
+java:S1172"+Remove this unused method parameter "line".(à×Ê¾ıÿÿÿÿ8…´´áÖ.
+h
+java:S1192E"FDefine a constant instead of duplicating this literal "Arial" 3 times.(Ã‰‘øûÿÿÿÿ8æú•ÀÔ.
+“
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(à×Ê¾ıÿÿÿÿ8ØÅ¬ÕÔ.
+M
+java:S3740 "/Provide the parametrized type for this generic.(—óà8äÂòàÖ.
+m	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥›Éı8äÂòàÖ.
+J	java:S108K")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8íÁå¿Ô.
+L
+java:S1481'"*Remove this unused "block" local variable.(Ü®íıúÿÿÿÿ8…´´áÖ.
+M
+java:S1172x"0Remove this unused method parameter "blockLine".(¥›Éı8ïØùàÖ.
+T
+java:S1135!"2Complete the task associated to this TODO comment.(ÙÛü®üÿÿÿÿ8™†¨áÖ.
+Z
+java:S1128
+"=Remove this unused import 'java.nio.file.StandardOpenOption'.(¸ ÅÎ8¿ŠáÖ.
+L
+java:S3740"/Provide the parametrized type for this generic.(È‡Ï†8Ã£Ü¿Ô.
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8¿ŠáÖ.
+M
+java:S1128	"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8¿ŠáÖ.
+O
+java:S1135""2Complete the task associated to this TODO comment.(‰¹àÀ8€İ«áÖ.
+T
+java:S1135*"2Complete the task associated to this TODO comment.(Ó¯··ıÿÿÿÿ8¢¾µáÖ.
+O
+java:S1135+"2Complete the task associated to this TODO comment.(ıàÈë8±ø¶áÖ.
+\
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ÔµÉ…ÿÿÿÿÿ8äÂòàÖ.

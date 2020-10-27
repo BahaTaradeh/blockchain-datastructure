@@ -1,0 +1,14 @@
+
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8—Š’áÖ.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8—Š’áÖ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ùŸàıÿÿÿÿ8¦÷íÔ.
+T
+java:S1135"2Complete the task associated to this TODO comment.(—Ğ¹ıüÿÿÿÿ8ü±©ÕÔ.
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8—Š’áÖ.
+T
+java:S1135"2Complete the task associated to this TODO comment.(£ĞãØüÿÿÿÿ8¥¡ÕÔ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8áĞçÔ.

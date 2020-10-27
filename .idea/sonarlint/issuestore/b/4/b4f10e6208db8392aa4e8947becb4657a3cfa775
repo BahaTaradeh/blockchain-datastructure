@@ -1,0 +1,27 @@
+
+9
+java:S1643"Use a StringBuilder instead.(Åêöù8‹ìˆáÖ.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ñäœáÖ.
+„
+java:S4087""bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ÄËªŸÿÿÿÿÿ8‹ìˆáÖ.
+O
+java:S1135/"2Complete the task associated to this TODO comment.(¦üùé8À²”áÖ.
+L
+java:S3740"/Provide the parametrized type for this generic.(°‡¬8ìû‰áÖ.
+O
+java:S11350"2Complete the task associated to this TODO comment.(öı­®8£ä—áÖ.
+‘
+java:S1319"tThe type of the "allChains" object should be an interface such as "List" rather than the implementation "ArrayList".(°‡¬8ìû‰áÖ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¹‹ó¿ıÿÿÿÿ8ƒ‰áÖ.
+R
+java:S1141 "5Extract this nested try block into a separate method.(Ç±Ï¥8‹ìˆáÖ.
+N
+java:S11354"2Complete the task associated to this TODO comment.(”İù=8Í‰›áÖ.
+J	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8‹ìˆáÖ.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Í‰›áÖ.
+K
+java:S3740"/Provide the parametrized type for this generic.(«ô©X8‹ìˆáÖ.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Àûå 8¥Ì’áÖ.
